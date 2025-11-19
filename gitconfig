@@ -48,7 +48,7 @@
   mergeoptions = --no-edit
 
 [pull]
-  rebase = false
+	rebase = true
 [user]
 	email = lisbethpurrucker@gmail.com
-	name = Lisbeth Purrucker
+	name = lisbeth purrucker
